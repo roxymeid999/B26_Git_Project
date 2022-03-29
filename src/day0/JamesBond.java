@@ -1,6 +1,6 @@
 package day0;
 
-public class James Bond{
+public class JamesBond{
   
   public static void main(String [] args){
    
